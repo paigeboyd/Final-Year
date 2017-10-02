@@ -26,7 +26,7 @@ I plan on exploring a number of touchpoints to go along with the app to promote 
 
 ### Cons
 
-- I will have to learn to use After Effects to animate the illustrations as I have limited experience with the software currently.
+- I have limited experience with After Effects, so I will need to learn the software to animate the illustrations.
 - Certain aspects of the app might need images to be stored in a database. I am not completely confident in working with databases so I will need to brush up on my knowledge of this.
 
 
@@ -41,12 +41,16 @@ As I want this project to be a challenge, I will learn to animate my illustratio
 
 ### Who’s it for?
 
-My target audience is mainly children from the ages of 7-12. By this stage they would have a sound enough understanding of the English language, and therefore would be able to create the link between the Sign Language gesture, and the English word. Research shows that children adapt and pick up languages easier than adults, so I want to take advantage of this and help build the foundations of British Sign Language while they are in this impressionable age. However I do want the app to be usable for adults as well who could be learning BSL with their child, so I want to steer away from having it too child-ish in the illustration style.
+My target audience is mainly children from the ages of 7-12. By this stage they would have a sound enough understanding of the English language, and therefore would be able to create the link between the Sign Language gesture, and the English word. Research shows that children adapt and pick up languages easier than adults, so I want to take advantage of this and help build the foundations of British Sign Language while they are in this impressionable age. 
+
+However I do want the app to be usable for adults as well who could be learning BSL with their child, so I want to steer away from having it too child-ish in the illustration style - this just isn't my main target audience.
 
 
 ### What’s the business model?
 
-As this is an educational app, I would hope that parents or schools would be willing to pay for the download. However, I think my best option would be a freemium option, where the initial download is free along with a few lessons or elements to the app, but users can pay to unlock further lessons. I am unsure about how much I would charge for the app and this is something I would need to consider when conducting user research; should I put a price on education?
+As this is an educational app, I would hope that parents or schools would be willing to pay for the download. However, I think my best option would be a freemium option, where the initial download is free along with a few lessons or elements to the app, but users can pay to unlock further lessons. 
+
+I am unsure about how much I would charge for the app and this is something I would need to consider when conducting user research; should I put a price on education?
 
 ------------
 
@@ -59,6 +63,8 @@ What's That? is a mobile app where travelling meets gaming. Using GPS technology
 An example: Going on an art tour around Paris. The route leads the user to the Louvre, and challenges them to take a selfie with the Mona Lisa in the background. Once this is done, it's off to the next attraction, where they face the challenge of working out a riddle. And so on...
 
 This app would provide the possibility of collaborating with local businesses in the city to provide real prizes for completing tours, for example vouchers to spend in a local café near the end of the tour.
+
+As this app is intended to be used on the go, I would build it as an iOS mobile app. To do this I would need to use 
 
 Touchpoints to this app would be the supporting website to build the brand and promote the product. 
 

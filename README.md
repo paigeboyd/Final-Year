@@ -12,7 +12,7 @@ The problem today is there aren't many user-friendly resources out there to teac
 
 I want to change this. My goal is to create an app which is fun and engaging for children, to encourage them to begin learning BSL in the hopes of carrying it on into later life. Topics would include how to 'fingerspell' the alphabet, numbers, basic greetings and common phrases. This could then develop on to teaching the user to sign their name and age, as well as possibly having a quiz with a 'match the sign to the word' style, to test their learning and development.
 
-This project will be a web app, so I can build it using HTML, CSS and JavaScript. I plan on creating illustrations and animations to bring the Sign Language gestures to life and make them easier to understand and retain.
+This project will be a web app, so I can build it using HTML, CSS and JavaScript. I plan on creating illustrations and animations to bring the Sign Language gestures to life and make them easier to understand and retain. This way, the app isn't immediately limited to one platform, as users will use their browser to access the app, and can simply bookmark the web app or add the icon to their home screen in the case of iOS users.
 
 I plan on exploring a number of touchpoints to go along with the app to promote learning BSL. These will possibly be in the form of stickers and flash cards, alongside the supporting website to establish the brand and explain how to use it.
 
@@ -110,35 +110,39 @@ I think this app would benefit from the freemium business model. With the initia
 
 ### Overview
 
-Inspired by a 'choose your own adventure' narrative, this educational story app would teach children about plants/nature. In years two or three of primary school, children begin learning about types of plants, how to keep them alive and their role in nature. This app would teach them these topics through storytelling, letting them choose their way through the story and learning the rewards or consequences of their actions. 
+Inspired by a 'choose your own adventure' narrative, this educational story would teach children about plants/nature. In years two or three of primary school, children begin learning about types of plants, how to keep them alive and their role in nature. This story would teach them these topics through storytelling, letting them choose their way through the story and learning the rewards or consequences of their actions. 
 
 For example, the story teaches the child about the importance of watering plants and brings them to a choice, do they: a) water the plant, or b) not water the plant. If the child chooses path b, they learn the consequence of not watering the plant. If they choose path a, they are shown how the plant will flourish and grow, and are brought to the next part of the story.
 
-
+I think this project would benefit from being created as an iBook, to use on iOS devices. This would facilitate the interactive aspect to the narrative and make it easily accessible from these devices which are now increasingly being used within classrooms.
 
 
 ### Pros
 
 - Narrative and Storytelling module during Year 2 has given me experience of designing to tell a story.
 - I enjoy illustration and creating engaging and fun illustrations for young age groups.
+- This story would promote learning outside the classroom, and show how learning can be fun and engaging for children.
 
 
 ### Cons
 
 - This would be the first time I will have created a choose your own adventure story.
-- How would I keep this information interesting to children? Is it too niche?
+- I don't have experience in working with iBooks Author, but I am willing to learn.
+- Is the topic too niche?
 
 
 ### How might it be built?
 
+To build this project I would use the iBooks Author software. This will allow me to structure the story and add interactive elements. I would create each 'page' of the story using Adobe Illustrator, as I am most confident in using this software for illustrating. If necessary, I could use Adobe After Effects to create animations. 
 
 
 ### Who’s it for?
 
-5-8. Years 2/3 in primary school
+I invision the target audience for this project as children from the ages of 5-8. At this age, they would be in years 2 or 3 of primary school in Northern Ireland, therefore it would link up with the curriculum being taught in schools. This would open up the project to being used by a large amount of children, possibly within the classroom, and also to further their learning at home.
 
 ### What’s the business model?
 
+As this is a childrens app and is encouraging learning outside the classroom, I don't think I would place a price on it. The theme of the story is quite niche, so I think keeping it free would open up the possibility of more children/parents downloading it and giving the book a go. The book could gain popularity through word of mouth, as parents could recommend it to other parents of young children.
 
 
 ------------

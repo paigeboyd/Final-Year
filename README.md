@@ -1,4 +1,4 @@
-# Three Ideas - Paige Boyd
+# Major Project: Three Ideas - Paige Boyd
 
 
 

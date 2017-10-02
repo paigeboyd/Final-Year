@@ -2,7 +2,7 @@
 
 
 
-## One: BSL Basics
+## One: BSL Basics Web App
 
 ### Overview
 
@@ -56,7 +56,7 @@ I am unsure about how much I would charge for the app and this is something I wo
 
 ------------
 
-## Two: What's that?
+## Two: What's that? Travel Gaming App
 
 ### Overview
 
@@ -106,7 +106,7 @@ I think this app would benefit from the freemium business model. With the initia
 
 ------------
 
-## Three: 
+## Three: Interactive Storytelling Book
 
 ### Overview
 

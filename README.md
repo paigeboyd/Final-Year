@@ -1,5 +1,7 @@
 # Three Ideas - Paige Boyd
 
+
+
 ## One: BSL Basics
 
 ### Overview
@@ -58,15 +60,17 @@ I am unsure about how much I would charge for the app and this is something I wo
 
 ### Overview
 
-What's That? is a mobile app where travelling meets gaming. Using GPS technology, users travel (in real time) around a city, visiting the attractions which act as checkpoints. Users can pick a route to follow based on their interests, for example street art, local food or historical monuments. As they progress through the route and visits each attraction, the app gives information on the attraction, and a quick challenge to complete. Once the user has progressed through the tour and has visited all checkpoints and completed all challenges, they earn a badge, which they can share with friends on social media.
+What's That? is a mobile app where travelling meets gaming. Users travel (in real time) around a city, visiting the attractions which act as checkpoints. Users can pick a route to follow based on their interests, for example street art, local food or historical monuments. As they progress through the route and visits each attraction, the app gives information on the attraction, and a quick challenge to complete. Once the user has progressed through the tour and has visited all checkpoints and completed all challenges, they earn a badge, which they can share with friends on social media.
 
 An example: Going on an art tour around Paris. The route leads the user to the Louvre, and challenges them to take a selfie with the Mona Lisa in the background. Once this is done, it's off to the next attraction, where they face the challenge of working out a riddle. And so on...
 
 This app would provide the possibility of collaborating with local businesses in the city to provide real prizes for completing tours, for example vouchers to spend in a local café near the end of the tour.
 
-As this app is intended to be used on the go, I would build it as an iOS mobile app. To do this I would need to use 
+As this app is intended to be used on the go, I would build it as an iOS mobile app. To do this I would need to use the Swift programming language and the xCode software. Using this will allow me to have full control over the graphics of the game, as well as allowing the use of the iPhone camera and integrating Geolocation and the use of maps.
 
-Touchpoints to this app would be the supporting website to build the brand and promote the product. 
+I'm also considering designing a fully interactive prototype of the app using prototying tools such as InVision or Marvel to create the game as I don't have experience in programming iOS apps. This would allow me to show how the game works and design each screen of the game. I would then focus on creating other touchpoints such as a supporting website using HTML, CSS and JavaScript, as designing a prototype isn't the biggest challenge.
+
+Touchpoints to this app would be the supporting website to build the brand and promote the product and possibly print products to promote the game, for example stickers. 
 
 ### Pros
 

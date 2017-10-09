@@ -20,10 +20,10 @@ How are gamified apps beneficial to secondary language learning?
 
 ## Initial Bibliography
 
-+ [https://techcrunch.com/2016/04/08/1301192/](Gamification, personalization and continued education are trending in edtech: techcrunch.com)
-+ [http://blogs.ntu.edu.sg/hss-second-language-acquisition/wiki/chapter-10/](Examining the Use of Gamification in Language Learning Apps and Its Effect on Second Language Acquisition: )
-+ [http://files.eric.ed.gov/fulltext/EJ1065005.pdf](Using Gamification to Enhance Second Language Learning: by Jorge Francisco Figueroa Flores)
-+ [http://www.enterprise-gamification.com/index.php?option=com_content&view=article&id=91:duolingo-how-gamified-language-learning-benefits-the-internet-and-humanity&catid=13&Itemid=17&lang=en](Duolingo - How Gamified Language Learning Benefits The Internet And Humanity: enterprise-gamification.com)
++ [https://techcrunch.com/2016/04/08/1301192/] (Gamification, personalization and continued education are trending in edtech: techcrunch.com)
++ [http://blogs.ntu.edu.sg/hss-second-language-acquisition/wiki/chapter-10/] (Examining the Use of Gamification in Language Learning Apps and Its Effect on Second Language Acquisition)
++ [http://files.eric.ed.gov/fulltext/EJ1065005.pdf] (Using Gamification to Enhance Second Language Learning: by Jorge Francisco Figueroa Flores)
++ [http://www.enterprise-gamification.com/index.php?option=com_content&view=article&id=91:duolingo-how-gamified-language-learning-benefits-the-internet-and-humanity&catid=13&Itemid=17&lang=en] (Duolingo - How Gamified Language Learning Benefits The Internet And Humanity: enterprise-gamification.com)
 
 
 

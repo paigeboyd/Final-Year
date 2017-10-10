@@ -12,7 +12,7 @@ APP will cover the foundations of British Sign Language, and is aimed towards he
 Users would begin by create a username and password to access their account. Their account will allow them to see the progress they have made and how many lessons they have completed.
 
 Topics would include:
-+ The Alphabet (aka Fingerspelling)
++ The Alphabet (aka Fingerspelling),
 + Numbers, 
 + Basic greetings e.g. Hello, My name is, How are you etc. ,
 + Days of the Week/Dates,

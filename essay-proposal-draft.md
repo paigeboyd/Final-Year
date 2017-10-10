@@ -2,11 +2,9 @@
 
 ## General Research Topic
 
-Apps and Language learning
+Gamified Apps and Language learning
 
 ## Research Question
-
-How do gamified apps benefit children when learning secondary languages?  (difficult to find material on children - keep to a section of essay?)
 
 How are gamified apps beneficial to secondary language learning?
 

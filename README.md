@@ -1,1 +1,1 @@
-# Major Project Ideas - Paige Boyd
+Major Project & IXD502 Essay

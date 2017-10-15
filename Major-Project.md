@@ -10,7 +10,7 @@ The problem today is there aren't many user-friendly resources out there to teac
 
 I want to change this. My goal is to create an app which is fun and engaging for children, to encourage them to begin learning BSL in the hopes of carrying it on into later life. 
 
-APP will cover the foundations of British Sign Language, and is aimed towards hearing-abled children. The app would introduce the users to sign language through 'lessons'; each lesson covering a different topic. This structure prevents learning BSL from feeling overwhelming and learning happens in small stages.
+App will cover the foundations of British Sign Language, and is aimed towards hearing-abled children. The app would introduce the users to sign language through 'lessons'; each lesson covering a different topic. This structure prevents learning BSL from feeling overwhelming and learning happens in small stages.
 
 Users would begin by create a username and password to access their account. Their account will allow them to see the progress they have made and how many lessons they have completed.
 
@@ -30,9 +30,8 @@ To increase engagement, users will receive badges OR printable certificates when
 
 TOUCHPOINTS: I plan on exploring a number of touchpoints to go along with the app to promote learning BSL. These will possibly be in the form of stickers and flash cards, alongside the supporting website to establish the brand and explain how to use it. The website will be aimed at adults; parents/teachers.
 
-I could build this project in two ways: Web App, or a Native App. 
+ 
 The Web App would be built using HTML, CSS and JavaScript, and would be able to be used on all devices with a browser and an internet connection.
-React Native would restrict the app to be used on iOS or Android mobile devices only. However, it would be a good learning experience and a chance to learn a new code? 
 
 
 ### Pros
@@ -48,9 +47,7 @@ React Native would restrict the app to be used on iOS or Android mobile devices 
 
 - I have limited experience with After Effects, so I will need to learn the software to animate the illustrations.
 - It's been a while since I last used PHP, I'll need to relearn this.
-- If I build the app using React Native, I don't have experience with this so I will have to learn the framework. (I am willing to do so!)
 - I'm not fluent in BSL - I'll need to be cautious that what I'm teaching is correct!!
-
 
 
 ### How might it be built?
@@ -61,7 +58,6 @@ I'm going to take an illustrative approach to this project. My [Elements Project
 
 As I want this project to be a challenge, I will learn to animate my illustrations using software such as After Effects, which I have very limited experience in using, but I am willing to learn. I will need to find some useful tutorials to do this, as well as establishing a house style for the illustrations to keep them consistent and easy to retain.
 
-The other possibility is building the app using React Native. React Native is a framework building on React and JavaScript and allows me to build native apps that can be used on both iOS and Android platforms.
 
 ### Who’s it for?
 
@@ -79,7 +75,6 @@ I am unsure about how much I would charge for the app and this is something I wo
 
 ### Questions/What I need to decide on:
 
-+ Web App or Native App: Do I restrict it to mobile devices?  ( leaning towards a web app )
 + Business Model: Should I put a price on this app; would a price discourage users?
 + Rewards: Ideas for rewarding kids for completing a lesson - in-app badges, printable certificates?
 
@@ -88,5 +83,4 @@ I am unsure about how much I would charge for the app and this is something I wo
 
 + British Deaf Association (BDA)
 + Action on Hearing Loss
-
 + BSL - Sign Language Week: 12-18 March 2018

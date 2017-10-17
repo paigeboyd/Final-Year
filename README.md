@@ -1,4 +1,4 @@
-##Final Year BDes (Hons) Interaction Design - Paige Boyd
+## Final Year BDes (Hons) Interaction Design - Paige Boyd
 
 **Blog**
 

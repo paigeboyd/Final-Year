@@ -2,7 +2,7 @@
 
 **Blog**
 
-[Process Blog](https://medium.com/@paigeboyd1)
+[Process Blog](https://medium.com/@paigeboyd1): *My major project process, & reflection of Final Year*
 
 ----
 **Tumblr**

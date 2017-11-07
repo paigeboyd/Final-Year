@@ -15,7 +15,8 @@
 
 ----
 **Protoypes**
-[User Personas](https://github.com/paigeboyd/Final-Year/tree/master/User%20Personas)
+
+[User Personas](https://github.com/paigeboyd/Final-Year/tree/master/User%20Personas) *Three user personas*
 
 ----
 **Code**

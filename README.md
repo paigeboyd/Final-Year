@@ -16,6 +16,7 @@
 ----
 **Protoypes**
 
+[Idea Proposal](https://github.com/paigeboyd/Final-Year/blob/master/Major-Project.md): *Major Project Idea*
 [User Personas](https://github.com/paigeboyd/Final-Year/tree/master/User%20Personas): *Three user personas*
 
 ----

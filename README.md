@@ -5,7 +5,7 @@
 [Process Blog](https://medium.com/@paigeboyd1): *Process & Reflection of Major Project & Dissertation Essay*
 
 ----
-**Tumblr: IXD502 Research**
+**Tumblr: IXD501 & IXD502 Research**
 
 [Essay Research](https://bsl-for-kids.tumblr.com/tagged/ixd502): *Analysis of Texts for Essay Research*
 

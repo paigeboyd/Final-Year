@@ -5,7 +5,7 @@
 [Process Blog](https://medium.com/@paigeboyd1): *Process & Reflection of Major Project & Dissertation Essay*
 
 ----
-**Tumblr: IXD501 & IXD502 Research**
+**Tumblr**
 
 [Essay Research](https://bsl-for-kids.tumblr.com/tagged/ixd502): *Analysis of Texts for Essay Research*
 
@@ -18,9 +18,11 @@
 
 [Idea Proposal](https://github.com/paigeboyd/Final-Year/blob/master/Major-Project.md): *Major Project Idea*
 
+[Market Research Survey](https://github.com/paigeboyd/Final-Year/tree/master/Market%20Research%20Survey): *Survey Questions & Responses*
+
 [User Personas](https://github.com/paigeboyd/Final-Year/tree/master/User%20Personas): *Three user personas*
 
-[User Journeys](https://github.com/paigeboyd/Final-Year/tree/master/User%20Personas): *Three user personas*
+[User Journeys](#): *Three user journeys*
 
 ----
 **Code**
